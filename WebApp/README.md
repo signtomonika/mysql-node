@@ -8,7 +8,7 @@
 
 ## Set Up
 
-Use the same MYSQL connection used in [Data/README.md][readme] in app.js
+Use the same MYSQL connection used in [readme](Data/README.md) in app.js
 
 ## Install dependencies:
 

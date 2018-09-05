@@ -19,7 +19,7 @@ Use the above in app.js file
 
 ## Schema
 
- Refer to the [Schema/users.sql][schema] file for instructions for the table schema
+ Refer to the [schema](Schema/users.sql) file for instructions for the table schema
     
 
 ## Install dependencies:
