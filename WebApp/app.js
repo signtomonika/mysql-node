@@ -9,9 +9,9 @@ app.use(express.static(__dirname + "/public")); //makes the contents in public a
 
 var connection = mysql.createConnection({
     host: 'sql3.freemysqlhosting.net',
-    user: 'sql-------',
-    database: 'sql-------',
-    password: 'XXXXXXXXXX'
+    user: 'sql3255208',
+    database: 'sql3255208',
+    password: 'HmxNJnjCZm'
 });
 
 // app.get("/", function(req, res){
